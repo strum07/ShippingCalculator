@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShippingCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="weight_text">Enter Weight in Ounces</string>
+</resources>
